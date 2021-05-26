@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p float="left">
-  <img src="https://github.com/Dwashi2/swift-exercises/blob/main/2.png" width="248">
+  <img src="https://github.com/Dwashi2/swift-Challange1/blob/main/1.png" width="248">
 </p>
  
 Challange: Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
