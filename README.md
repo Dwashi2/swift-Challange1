@@ -30,9 +30,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p float="left">
-  <img src="" width="248">
-</p>
+
  
 Challange: Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
 
